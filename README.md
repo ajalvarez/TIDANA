@@ -1,2 +1,2 @@
 # TIDANA
-Tinking in Data Analysis
+Thinking in Data Analysis
